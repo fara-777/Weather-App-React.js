@@ -19,10 +19,8 @@ This is a simple weather application built using React. It utilizes the React AP
 
 ## ScreenShot
 
-[](/src/img/ScreenShot.jpg)
+[](/public/img/ScreenShot.jpg)
 
 ## Screen Gif
 
-[](/src/img/Screen.gif)
-# weather-app-react.js
-# weather-app-react.js
+[](/public/img/Screen.gif)
