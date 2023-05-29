@@ -7,7 +7,7 @@
 .container {
   height: 100vh;
   background: linear-gradient(20deg, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0.1)),
-    url(/public/img/weather.jpeg);
+    url(/public/weather.jpeg);
   background-size: cover;
   background-position: center;
 }
