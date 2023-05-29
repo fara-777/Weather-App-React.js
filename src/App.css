@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+.container {
+  height: 100vh;
+  background: linear-gradient(20deg, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0.1)),
+    url(/public/img/weather.jpeg);
+  background-size: cover;
+  background-position: center;
+}
+.search {
+  min-height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+input {
+  width: 20%;
+}
+input,
+button {
+  padding: 8px 10px;
+  margin-left: 10px;
+  font-size: 1rem;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+}
+button {
+  background-color: yellow;
+  color: black;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #fff;
+  color: black;
+}
